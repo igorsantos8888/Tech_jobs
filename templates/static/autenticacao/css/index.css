@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.25rem;
+}
+
+.subtitulo_cadastrar {
+    font-size: 1.875rem;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+}
+
+.menus_cadastro {
+    background-color: rgb(179, 179, 179);
+    margin: 1.000rem;
+    padding: 1.875rem;
+    border-radius: 5%;
+}
+
+.btn-first {
+
+    border: none;
+    padding: 5px 15px 5px 15px;
+    font-size: 25px;
+    background-color: #3C413a;
+    color: white;
+    font-weight: bold;
+
+}
+
+.btn-login h3 {
+    margin-bottom: -80px;
+}

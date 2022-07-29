@@ -1,0 +1,168 @@
+/** header Navbar */
+
+ul li a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/** Seção menu */
+.section_menu {
+    width: 100%;
+    background: black;
+    height: 18.75rem;
+    margin-top: 1.25rem;
+}
+
+.p_menu_section {
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 0.25rem;
+}
+
+.p_menu_section_sub-title {
+    font-size: 1rem;
+    color: #fff;
+    margin-top: 2rem;
+}
+
+.container_section {
+    padding: 1.25rem;
+}
+
+.btn-menu-section {
+    margin-top: 3.25rem;
+}
+
+.btn-section {
+    color: #fff;
+    padding: 0.600rem;
+    text-decoration: none;
+    background: #8DC847;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 0.375rem;
+}
+
+.btn-section:hover {
+    color: #fff;
+    padding: 0.600rem;
+    text-decoration: none;
+    opacity: 1.0;
+}
+
+.img-menu-section {
+    width: 70%;
+}
+
+/** Seção body  */
+
+.section-body {
+    margin-top: 1.25rem;
+    background: rgb(249, 245, 245);
+}
+
+.texto-svg {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.texto-svg span {
+    margin-left: 1.25rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+}
+
+.texto-section-body {
+    margin-top: 1rem;
+}
+
+.texto-section-body p {
+    text-align: start;
+    font-size: 1rem;
+}
+
+
+/** Seção Ultimas vagas */
+
+.section-ultimas-vagas {
+    margin-top: 3.125rem;
+}
+
+.section-titulo {
+    font-size: 3.50rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 1.25rem;
+}
+
+.section-mais-vagas {
+    text-align: center;
+    margin-top: 3.125rem;
+}
+
+.section-mais-vagas a {
+    background: #8DC847;
+    padding: 0.875rem;
+    font-size: 1.25rem;
+    color: #fff;
+}
+
+.section-mais-vagas a:hover {
+    background: #78a93b;
+    padding: 0.875rem;
+    font-size: 1.25rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+/** Seção onde mostra a quantidade de vagas  */
+
+.section-plus {
+    margin-top: 6.25rem;
+    text-align: center;
+}
+
+.section-plus p {
+    font-size: 2.50rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.conteudo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cards {
+    margin-top: 2rem;
+    background: rgb(137, 133, 133);
+    width: 25%;
+    color: #fff;
+}
+
+.cards p {
+    font-size: 30px;
+}
+
+/** Footer */
+
+.footer {
+    margin-top: 6.25rem;
+    text-align: center;
+    background: #3C413a;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.content-footer {
+    margin-top: 4rem;
+}
+
+.social-footer {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
