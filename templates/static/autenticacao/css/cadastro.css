@@ -1,0 +1,14 @@
+
+.formulario {
+    font-family: 'Oswald', sans-serif;
+    background: rgb(250, 246, 246);
+    padding: 20px;
+}
+
+.titulo-formulario {
+    font-size: 40px;
+}
+
+hr {
+    width: 40rem;
+}
